@@ -1,0 +1,25 @@
+{
+  "name": "sqrt",
+  "main": "sqrt.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/sqrt",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Babylonian method for calculating square root of a number.",
+  "keywords": [
+    "square",
+    "root",
+    "babylonian",
+    "method",
+    "math"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
